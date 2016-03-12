@@ -1,6 +1,6 @@
 # C++ Project Maker
 
-### Author: Alejandro Marrero Díaz
+### Autor: Alejandro Marrero Díaz
 ### Universidad de La Laguna [ULL](http://www.ull.es)
 ### Contacto: alu0100825008@ull.edu.es
 
