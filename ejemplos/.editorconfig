@@ -1,0 +1,11 @@
+# Crear en la raíz del proyecto un fichero: .editorconfig con este contenido
+
+root = true
+ 
+[*]
+indent_style = space
+indent_size = 4
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true # doesn't work yet
+insert_final_newline = true # doesn't work yet

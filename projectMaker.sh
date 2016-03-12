@@ -18,6 +18,7 @@ repo_maker() {
 	cd $1
 	git init
 	echo ".*" > .gitignore
+	echo "!.travis.yml" >> .gitignore
 	git add . && git commit -m "Directories created."
 }
 
